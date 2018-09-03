@@ -10,4 +10,4 @@ Here will be information regarding the general purpose of this page.
 
 ### Spiders
 
-[a relative link](Arachnid1.md)
+[Arachnid 1](Arachnid1.md)

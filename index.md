@@ -10,5 +10,5 @@ Here will be information regarding the general purpose of this page.
 
 ### Spiders
 
-[link]((Darachnid.github.io/Arachnid1.md)){:target="_blank"}
+<a href="http://Darachnid.github.io/Arachnid1.md" target="_self">example</a>
 [Habronattus](Darachnid.github.io/Arachnid1.md)

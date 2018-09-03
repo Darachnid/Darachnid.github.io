@@ -1,3 +1,16 @@
+var Dropdown = require('dropdown');
+
+var dropdown = new Dropdown('.fruits-dropdown');
+
+dropdown
+.add('Banana')
+.add('Apple', function(){ console.log('Apple selected'); })
+.add('Lemon', function(){ console.log('Lemon'); })
+.add('Remove "Apple"', function(){
+  dropdown.remove('Lemon');
+})
+.focus('Apple');
+
 ## Salticidae Inventory of Nicaragua 
 
 Here will be information regarding the general purpose of this page.

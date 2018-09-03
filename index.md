@@ -10,4 +10,4 @@ Here will be information regarding the general purpose of this page.
 
 ### Spiders
 
-<a href="http://Darachnid.github.io/Arachnid1.md" target="_self">Habronattus</a>
+[a relative link](Arachnid1.md)

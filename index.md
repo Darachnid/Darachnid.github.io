@@ -10,4 +10,4 @@ Here will be information regarding the general purpose of this page.
 
 ### Spiders
 
-[About Us](Darachnid.github.io/_pages/_about/thepeople.md)
+[About Us](Darachnid.github.io/_pages/About.md)

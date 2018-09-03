@@ -6,4 +6,8 @@ Here will be information regarding the general purpose of this page.
 1. observe your specimine
 2. note the color and shape
 3. take a photo for later reference
-4. identify using the dichotomous keu
+4. identify using the dichotomous key
+
+### Spiders
+
+[Habronattus](Darachnid.github.io/Arachnid1.md)
